@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter App</string>
+    <string name="currency">Currency</string>
+    <string name="from">from</string>
+    <string name="naira_ngn">Naira (ngn)</string>
+    <string name="to">to</string>
+    <string name="bitcoin_btc">Bitcoin (btc)</string>
+    <string name="round_up_result">Round up result?</string>
+    <string name="convert">CONVERT</string>
+    <string name="Bitcoin_Value"> Bitcoin Value: %s</string>
+</resources>
